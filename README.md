@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Starter files for any react project
+
+
+### Contains Header
+### Installed React Router Dom, Tailwind CSS, React Icon
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
